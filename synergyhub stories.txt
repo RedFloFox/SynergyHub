@@ -1,0 +1,17 @@
+Time estimate story
+
+1. After pressing 'Create Task' button in the top right and in the 'New Task' page, underneath the asignee dropdown will be a numerical text box that says 'Time Estimate'
+2. This box will be where the creater puts 15 mins, or 2 hours, etc
+3. When the user presses the 'create button', it will be continued as an attribute of the task
+4. This way it is visible to everyone who can see all other attributes of the task
+
+Assigned to
+
+1. After pressing 'Create Task' button in the top right and in the 'New Task' page, unline with the asignee dropdown will be another dropdown that says "assigned to".
+2. Almost exactly like the 'Assignee' attribute, but of course it will be for who the task is assigned to.
+3. When the user presses the 'create button', it will be continued as an attribute of the task
+4. This way it is visible to everyone who can see all other attributes of the task
+
+Views
+
+Almost everything will remain the same, however, in addition to the new option in the create task section, the task hub will show these new options too.
